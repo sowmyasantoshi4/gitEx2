@@ -1,1 +1,2 @@
-this is from file A
+this is from file A.
+FIle content modified.
